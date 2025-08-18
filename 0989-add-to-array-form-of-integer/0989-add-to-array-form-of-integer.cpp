@@ -9,23 +9,23 @@ public:
         while (i >= 0 || k > 0) {
             if (i < 0) {
                 sum = k % 10;
-                res.insert(res.begin(), sum);
+                res.push_back(sum);
                 k = k / 10;
 
             } else {
                 sum = num[i] + (k % 10);
                 if (sum > 9) {
-                    res.insert(res.begin(), sum % 10);
+                    res.push_back(sum%10);
                     k = k / 10 + 1;
                 } else {
-                    res.insert(res.begin(), sum);
+                   res.push_back(sum);
                     k = k / 10;
                 }
             }
 
            i--;
         }
- 
+        reverse(res.begin(),res.end());
         return res;
         }
 
