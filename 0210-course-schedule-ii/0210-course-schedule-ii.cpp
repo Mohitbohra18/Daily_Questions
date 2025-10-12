@@ -45,8 +45,12 @@ public:
 
             indegree[a]++;
         }
+        vector<int> res=toposort(adj,numCourses,indegree);
 
 
-        return toposort(adj,numCourses,indegree);
+        if(res.size()==numCourses)
+        return res;
+    
+    return {};
     }
 };
