@@ -9,7 +9,7 @@ public:
                 c++;
             } else {
                 c = 0;
-                largest = max(largest, c);
+                // largest = max(largest, c);
             }
             largest = max(largest, c);
         }
