@@ -2,7 +2,7 @@ class Solution {
 public:
     int f(int n,vector<int> &dp)
     {
-     if(n<=1)return n;
+     if(n<=1)return n;//the lowest possible value of the recursion parameter is the base case
 
      if(dp[n]!=-1)return dp[n];
 
@@ -14,7 +14,7 @@ public:
         if(n<=1)
         return n;
 
-        vector<int> dp(n+1,-1);
+        vector<int> dp(n+1,-1);//recursion and memoization appraoch
         return f(n,dp);
     }
 };
