@@ -2,19 +2,31 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
         int n = s.size();
-        if (n != goal.size()) return false;
+        // if (n != goal.size()) return false;
 
-        for (int start = 0; start < n; start++) {
-            int i = 0;
-            int j = start;
+        // for (int start = 0; start < n; start++) {
+        //     int i = 0;
+        //     int j = start;
 
-            while (i < n && s[j % n] == goal[i]) {
-                i++;
-                j++;
-            }
+        //     while (i < n && s[j % n] == goal[i]) {
+        //         i++;
+        //         j++;
+        //     }
 
-            if (i == n) return true;  // full match found
+        //     if (i == n) return true;  // full match found
+        // }
+        // return false;
+        if(n!=goal.size())return false;
+
+        string s1=s+s;
+
+        if(s1.find(goal)!=string::npos)
+        {
+            return true;
         }
+        
+
         return false;
+
     }
 };
