@@ -15,6 +15,10 @@ public:
             subNum[total]++;
         }
 
+        // prefix summ
+
+
+
         return count;
     }
 };
