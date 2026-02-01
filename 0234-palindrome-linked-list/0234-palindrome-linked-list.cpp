@@ -12,25 +12,64 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         
-        stack<int> s;
-        ListNode* temp=head;
-        while(temp!=nullptr)
-        {
-            s.push(temp->val);
-            temp=temp->next;
-        }
-        temp=head;
-        while(temp!=nullptr)
-        {
-            int t=s.top();
-            s.pop();
-            if(t!=temp->val)
-            {
-                return false;
-            }
-            temp=temp->next;
+        // stack<int> s;
+        // ListNode* temp=head;
+        // while(temp!=nullptr)
+        // {
+        //     s.push(temp->val);
+        //     temp=temp->next;
+        // }
+        // temp=head;
+        // while(temp!=nullptr)
+        // {
+        //     int t=s.top();
+        //     s.pop();
+        //     if(t!=temp->val)
+        //     {
+        //         return false;
+        //     }
+        //     temp=temp->next;
            
-        }
-        return true;
+        // }
+        // return true;
+
+
+
+    if (!head || !head->next) return true;
+
+    // 1️⃣ Find middle
+    ListNode* slow = head;
+    ListNode* fast = head;
+
+    while (fast != NULL && fast->next != NULL) {
+        slow = slow->next;
+        fast = fast->next->next;
     }
+
+    // 2️⃣ Reverse second half
+    ListNode* prev = NULL;
+    ListNode* curr = slow;
+
+    while (curr != NULL) {
+        ListNode* nextNode = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = nextNode;
+    }
+
+    // 3️⃣ Compare both halves
+    ListNode* first = head;
+    ListNode* second = prev;
+
+    while (second != NULL) {
+        if (first->val != second->val) {
+            return false;
+        }
+        first = first->next;
+        second = second->next;
+    }
+
+    return true;
+}
+
 };
