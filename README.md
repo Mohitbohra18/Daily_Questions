@@ -13,6 +13,7 @@ to maintain consistency in coding platforms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -103,4 +104,5 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
