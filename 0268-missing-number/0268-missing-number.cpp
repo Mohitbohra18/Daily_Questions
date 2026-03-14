@@ -14,10 +14,9 @@ public:
         // }
         // return x;
 
+        
+        
         //cyclic sort
-
-    
-
         int i=0;
         while(i<n)
         {
