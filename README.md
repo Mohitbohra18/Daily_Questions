@@ -12,6 +12,7 @@ to maintain consistency in coding platforms
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -75,6 +76,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
