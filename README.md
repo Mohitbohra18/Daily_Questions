@@ -36,6 +36,7 @@ to maintain consistency in coding platforms
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -120,6 +121,7 @@ to maintain consistency in coding platforms
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
