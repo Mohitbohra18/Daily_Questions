@@ -17,6 +17,7 @@ to maintain consistency in coding platforms
 | [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -80,6 +81,7 @@ to maintain consistency in coding platforms
 | [0001-two-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
