@@ -67,6 +67,7 @@ to maintain consistency in coding platforms
 | [0092-reverse-linked-list-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ to maintain consistency in coding platforms
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
