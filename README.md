@@ -28,6 +28,7 @@ to maintain consistency in coding platforms
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ to maintain consistency in coding platforms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
