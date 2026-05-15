@@ -13,6 +13,7 @@ to maintain consistency in coding platforms
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
@@ -122,6 +123,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
