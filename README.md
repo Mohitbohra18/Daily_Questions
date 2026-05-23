@@ -29,6 +29,7 @@ to maintain consistency in coding platforms
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
