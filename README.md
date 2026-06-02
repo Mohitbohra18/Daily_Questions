@@ -15,6 +15,7 @@ to maintain consistency in coding platforms
 | [0056-merge-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -136,6 +137,7 @@ to maintain consistency in coding platforms
 | [0005-longest-palindromic-substring](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -161,6 +163,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
