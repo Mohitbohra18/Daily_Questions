@@ -34,6 +34,7 @@ to maintain consistency in coding platforms
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -76,6 +77,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
