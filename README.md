@@ -13,6 +13,7 @@ to maintain consistency in coding platforms
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -94,6 +95,7 @@ to maintain consistency in coding platforms
 | [0005-longest-palindromic-substring](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
