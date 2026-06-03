@@ -28,6 +28,7 @@ to maintain consistency in coding platforms
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -184,11 +185,13 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
