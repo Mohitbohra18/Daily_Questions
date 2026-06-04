@@ -101,6 +101,7 @@ to maintain consistency in coding platforms
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ to maintain consistency in coding platforms
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +243,8 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
