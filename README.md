@@ -80,6 +80,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -100,6 +101,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0371-sum-of-two-integers/) | Medium |
