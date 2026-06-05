@@ -25,6 +25,7 @@ to maintain consistency in coding platforms
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
@@ -135,6 +136,7 @@ to maintain consistency in coding platforms
 | [0138-copy-list-with-random-pointer](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -182,6 +184,7 @@ to maintain consistency in coding platforms
 | [0088-merge-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
@@ -224,6 +227,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
