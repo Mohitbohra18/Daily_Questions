@@ -47,6 +47,7 @@ to maintain consistency in coding platforms
 | [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -95,6 +96,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ to maintain consistency in coding platforms
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
