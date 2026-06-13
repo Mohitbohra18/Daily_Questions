@@ -56,6 +56,7 @@ to maintain consistency in coding platforms
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ to maintain consistency in coding platforms
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ to maintain consistency in coding platforms
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
