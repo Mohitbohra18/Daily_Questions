@@ -45,6 +45,7 @@ to maintain consistency in coding platforms
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -65,6 +66,7 @@ to maintain consistency in coding platforms
 | [0409-longest-palindrome](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -229,6 +231,7 @@ to maintain consistency in coding platforms
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -329,4 +332,8 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
