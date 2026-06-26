@@ -60,6 +60,7 @@ to maintain consistency in coding platforms
 | [3689-maximum-total-subarray-value-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ to maintain consistency in coding platforms
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ to maintain consistency in coding platforms
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ to maintain consistency in coding platforms
 | [1732-find-the-highest-altitude](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +340,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,4 +353,5 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
