@@ -50,6 +50,7 @@ to maintain consistency in coding platforms
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -101,6 +102,7 @@ to maintain consistency in coding platforms
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
