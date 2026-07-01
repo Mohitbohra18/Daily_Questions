@@ -56,6 +56,7 @@ to maintain consistency in coding platforms
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -88,6 +89,7 @@ to maintain consistency in coding platforms
 | [0994-rotting-oranges](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ to maintain consistency in coding platforms
 | [0875-koko-eating-bananas](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
@@ -293,6 +296,7 @@ to maintain consistency in coding platforms
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +341,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +360,7 @@ to maintain consistency in coding platforms
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
