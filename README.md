@@ -301,6 +301,7 @@ to maintain consistency in coding platforms
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Counting
@@ -332,6 +333,7 @@ to maintain consistency in coding platforms
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -347,6 +349,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -382,6 +385,7 @@ to maintain consistency in coding platforms
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
