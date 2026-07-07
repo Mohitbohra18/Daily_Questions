@@ -39,6 +39,7 @@ to maintain consistency in coding platforms
 | [0875-koko-eating-bananas](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
@@ -256,6 +257,7 @@ to maintain consistency in coding platforms
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1840-maximum-building-height/) | Hard |
