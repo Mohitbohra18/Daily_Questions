@@ -57,7 +57,6 @@ public:
             }
             else
             {
-
             mid++;
             }
         }
