@@ -11,6 +11,7 @@ to maintain consistency in coding platforms
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
@@ -103,6 +104,7 @@ to maintain consistency in coding platforms
 | [0005-longest-palindromic-substring](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0383-ransom-note](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -191,6 +193,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
@@ -258,6 +261,7 @@ to maintain consistency in coding platforms
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
