@@ -13,10 +13,9 @@ public:
 
         for(int num=start;num<candidates.size();num++)
         {
-            sum+=candidates[num];
+            
             temp.push_back(candidates[num]);
-            fnc(candidates,target,sum,num,temp,res);
-            sum-=candidates[num];
+            fnc(candidates,target,sum+candidates[num],num,temp,res);
             temp.pop_back();
         }
     }
