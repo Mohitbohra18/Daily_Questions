@@ -1,35 +1,20 @@
 class Solution {
 public:
-    class cmp {
-    public:
-        bool operator()(pair<int,string> &a, pair<int,string> &b) {
-            if (a.first == b.first)
-                return a.second > b.second;
-            return a.first < b.first;
-        }
-    };
-
     vector<string> topKFrequent(vector<string>& words, int k) {
+        unordered_map<string,int> freq;
+        for (auto& w : words) freq[w]++;
 
-        map<string,int> mp;
+        // min-heap on {-count, word}
+        priority_queue<pair<int,string>, vector<pair<int,string>>, greater<pair<int,string>>> pq;
 
-        for (string &w : words)
-            mp[w]++;
+        for (auto& it : freq)
+            pq.push({-it.second, it.first});   // count ko NEGATIVE karke daala
 
-        priority_queue<pair<int,string>,
-                       vector<pair<int,string>>,
-                       cmp> pq;
-
-        for (auto &e : mp)
-            pq.push({e.second, e.first});
-
-        vector<string> res;
-
-        while (k--) {
-            res.push_back(pq.top().second);
+        vector<string> ans;
+        for (int i = 0; i < k; i++) {
+            ans.push_back(pq.top().second);    // seedha top k nikaal lo
             pq.pop();
         }
-
-        return res;
+        return ans;   // koi reverse nahi, koi custom comparator nahi!
     }
 };
