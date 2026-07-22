@@ -110,6 +110,7 @@ to maintain consistency in coding platforms
 | [0020-valid-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0383-ransom-note](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -179,6 +180,7 @@ to maintain consistency in coding platforms
 | [0118-pascals-triangle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
@@ -226,6 +228,7 @@ to maintain consistency in coding platforms
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0039-combination-sum/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
