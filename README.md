@@ -160,6 +160,7 @@ to maintain consistency in coding platforms
 | [0048-rotate-image](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -177,6 +178,7 @@ to maintain consistency in coding platforms
 | [0022-generate-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -438,6 +440,7 @@ to maintain consistency in coding platforms
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
