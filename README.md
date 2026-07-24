@@ -29,6 +29,7 @@ to maintain consistency in coding platforms
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
@@ -183,6 +184,7 @@ to maintain consistency in coding platforms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0198-house-robber](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1340-jump-game-v/) | Hard |
