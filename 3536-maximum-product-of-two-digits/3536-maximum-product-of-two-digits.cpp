@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxProduct(int n) {
         vector<int> temp;
-        if(n<10)return n;
+        
 
         while(n!=0)
         {
