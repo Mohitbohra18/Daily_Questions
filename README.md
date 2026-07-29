@@ -113,6 +113,7 @@ to maintain consistency in coding platforms
 | [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0383-ransom-note](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -216,6 +217,7 @@ to maintain consistency in coding platforms
 | [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0409-longest-palindrome/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -352,6 +354,7 @@ to maintain consistency in coding platforms
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -454,4 +457,8 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
