@@ -8,6 +8,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0039-combination-sum/) | Medium |
@@ -244,6 +245,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0075-sort-colors/) | Medium |
@@ -288,6 +290,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0075-sort-colors/) | Medium |
