@@ -11,6 +11,7 @@ to maintain consistency in coding platforms
 | [0016-3sum-closest](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -266,6 +267,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
