@@ -10,7 +10,7 @@ public:
             }
             nums[i] = nums[i] * nums[i];
         }
-        if(k==-1)return nums;
+        
         int neg = k;
         int pos = k + 1;
 
