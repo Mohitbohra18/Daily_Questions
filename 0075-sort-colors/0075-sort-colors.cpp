@@ -2,9 +2,9 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         int n=nums.size();
+        int one=0;
         int zero=0;
         int two=n-1;
-        int one=0;
 
         while(one<=two)
         {
