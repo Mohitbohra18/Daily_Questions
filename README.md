@@ -177,6 +177,7 @@ to maintain consistency in coding platforms
 | [0050-powx-n](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -231,6 +232,7 @@ to maintain consistency in coding platforms
 | [0141-linked-list-cycle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
@@ -269,6 +271,7 @@ to maintain consistency in coding platforms
 | [0141-linked-list-cycle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -506,4 +509,5 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
