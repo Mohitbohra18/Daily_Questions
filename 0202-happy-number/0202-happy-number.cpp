@@ -1,28 +1,26 @@
 class Solution {
 public:
-    int sqsum(int n)
-    {
-        int sum=0;
-        while(n)
-        {
-            sum+=(n%10 )* (n%10);
-            n=n/10;
-        }
-        return sum;
-    }
     bool isHappy(int n) {
-        int slow=n;
-        int fast=n;
-        
-
-        do
+        set<long long> s;
+        while(n!=1)
         {
-            slow=sqsum(slow);
-            fast=sqsum(sqsum(fast));
-        }
-        while(fast!=slow);
+            if(s.find(n)!=s.end())
+            {
+                return false;
+            }
+              s.insert(n);
+              long long sum=0;
+              while(n!=0)
+              {
+                int d=n%10;
+                sum+=(d*d);
+                n=n/10;
+              }
+              n=sum;
+            
 
-        return (slow==1);
-        
+        }
+       
+        return true;
     }
 };
