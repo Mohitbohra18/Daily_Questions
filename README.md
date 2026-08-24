@@ -167,6 +167,7 @@ to maintain consistency in coding platforms
 | [0141-linked-list-cycle](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -276,6 +277,7 @@ to maintain consistency in coding platforms
 | [0283-move-zeroes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
