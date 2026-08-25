@@ -85,6 +85,7 @@ to maintain consistency in coding platforms
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -251,6 +252,7 @@ to maintain consistency in coding platforms
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
