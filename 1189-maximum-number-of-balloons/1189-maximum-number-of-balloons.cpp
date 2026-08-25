@@ -1,22 +1,19 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        unordered_map<char,int> umap;
-
-        
-        for(char ch : text){
-            umap[ch]++;
+        unordered_map<char,int> mp;
+        int res=INT_MAX;
+        for(char s:text)
+        {
+           mp[s]++;
         }
+        res=min(res,mp['b']);
+        res=min(res,mp['a']);
+        res=min(res,mp['l']/2);
+        res=min(res,mp['o']/2);
+        res=min(res,mp['n']);
 
-        
-        int result = INT_MAX;
 
-        result = min(result, umap['b']);
-        result = min(result, umap['a']);
-        result = min(result, umap['l'] / 2);
-        result = min(result, umap['o'] / 2);
-        result = min(result, umap['n']);
-
-        return result;
+        return res;       
     }
 };
