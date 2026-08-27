@@ -1,27 +1,23 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int n=s.size();
-        int low=0,high=0;
-        int mx=0;
-        
-        vector<int> fq(26,0);
-
-        while(high<n)
+        int n=s.size(),l=0,r=0,maxFreq=0,maxLen=0;
+        vector<int> hash(26,0);
+        while(r<n)
         {
-            fq[s[high]-'A']++;
-            int len=high-low+1;
-            while(len-*max_element(fq.begin(),fq.end())>k)
+            hash[s[r]-'A']++;
+            maxFreq=max(maxFreq,hash[s[r]-'A']);
+            if((r-l+1-maxFreq)>k)
             {
-                fq[s[low]-'A']--;
-                low++;
-                len=high-low+1;
+                hash[s[l]-'A']--;
+                l++;
             }
-            
-            mx=max(mx,len);
-            high++;
+            if((r-l+1-maxFreq)<=k)
+            {
+                maxLen=max(maxLen,r-l+1);
+            }
+            r++;
         }
-
-        return mx;
+        return maxLen;
     }
 };
