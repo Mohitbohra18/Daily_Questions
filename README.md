@@ -29,6 +29,7 @@ to maintain consistency in coding platforms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0162-find-peak-element/) | Medium |
@@ -209,6 +210,7 @@ to maintain consistency in coding platforms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
