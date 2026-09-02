@@ -477,6 +477,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0197-rising-temperature/) | Easy |
+| [0620-not-boring-movies](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
