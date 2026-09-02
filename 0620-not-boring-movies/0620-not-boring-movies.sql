@@ -2,5 +2,5 @@
 select * 
 from Cinema c
 where c.id%2=1
-AND not c.description = "boring"
+AND not trim(c.description) = "boring"
 order by c.rating  desc;
