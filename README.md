@@ -476,6 +476,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
