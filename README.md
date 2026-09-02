@@ -51,6 +51,7 @@ to maintain consistency in coding platforms
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0860-lemonade-change/) | Easy |
@@ -236,6 +237,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -321,6 +323,7 @@ to maintain consistency in coding platforms
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -379,6 +382,7 @@ to maintain consistency in coding platforms
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
