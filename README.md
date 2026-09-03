@@ -95,6 +95,7 @@ to maintain consistency in coding platforms
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +210,7 @@ to maintain consistency in coding platforms
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
