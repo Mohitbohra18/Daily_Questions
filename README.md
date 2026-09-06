@@ -564,4 +564,8 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
