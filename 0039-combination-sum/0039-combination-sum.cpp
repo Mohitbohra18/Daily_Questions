@@ -1,30 +1,26 @@
 class Solution {
 public:
-    void fnc(vector<int>& candidates,int target,int sum,int start,vector<int>&temp,vector<vector<int>>&res)
-    {
-        if(sum==target)
-        {
-            res.push_back(temp);
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> res;
+        vector<int> comb;
+        makeCombination(candidates, target, 0, comb, 0, res);
+        return res;        
+    }
+
+private:
+    void makeCombination(std::vector<int>& candidates, int target, int idx, vector<int>& comb, int total, vector<vector<int>>& res) {
+        if (total == target) {
+            res.push_back(comb);
             return;
         }
-        if(sum>target)return ;
 
-
-
-        for(int num=start;num<candidates.size();num++)
-        {
-            
-            temp.push_back(candidates[num]);
-            fnc(candidates,target,sum+candidates[num],num,temp,res);
-            temp.pop_back();
+        if (total > target || idx >= candidates.size()) {
+            return;
         }
-    }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>>res;
-        vector<int>temp;
-        int sum=0;
-        fnc(candidates,target,sum,0,temp,res);
-        return res;
 
-    }
+        comb.push_back(candidates[idx]);
+        makeCombination(candidates, target, idx, comb, total + candidates[idx], res);
+        comb.pop_back();
+        makeCombination(candidates, target, idx + 1, comb, total, res);
+    }    
 };
