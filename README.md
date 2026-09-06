@@ -15,6 +15,7 @@ to maintain consistency in coding platforms
 | [0039-combination-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0053-maximum-subarray/) | Medium |
@@ -286,6 +287,7 @@ to maintain consistency in coding platforms
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
