@@ -1,38 +1,37 @@
 class Solution {
- unordered_map<char, string> mp = {
-    {'2', "abc"},
-    {'3', "def"},
-    {'4', "ghi"},
-    {'5', "jkl"},
-    {'6', "mno"},
-    {'7', "pqrs"},
-    {'8', "tuv"},
-    {'9', "wxyz"}
-};
-
-
-    void combination(string digits,int idx,string &temp,vector<string>&res)
-    {
-        if(idx==digits.size())
-        {
-            res.push_back(temp);
-            return;
-        }
-
-        string letters= mp[digits[idx]];
-        for(char c:letters)
-        {   
-            temp.push_back(c);
-            combination(digits,idx+1,temp,res);
-            temp.pop_back();
-        }
-    }
 public:
     vector<string> letterCombinations(string digits) {
-        if(digits.size()==0)return {};
         vector<string> res;
-        string temp="";
-        combination(digits,0,temp,res);
-        return res;
+        
+        if (digits.empty()) {
+            return res;
+        }
+        
+        unordered_map<char, string> digitToLetters = {
+            {'2', "abc"},
+            {'3', "def"},
+            {'4', "ghi"},
+            {'5', "jkl"},
+            {'6', "mno"},
+            {'7', "pqrs"},
+            {'8', "tuv"},
+            {'9', "wxyz"}
+        };
+        
+        backtrack(digits, 0, "", res, digitToLetters);
+        
+        return res;        
     }
+
+    void backtrack(const string& digits, int idx, string comb, vector<string>& res, const unordered_map<char, string>& digitToLetters) {
+        if (idx == digits.length()) {
+            res.push_back(comb);
+            return;
+        }
+        
+        string letters = digitToLetters.at(digits[idx]);
+        for (char letter : letters) {
+            backtrack(digits, idx + 1, comb + letter, res, digitToLetters);
+        }
+    }    
 };
