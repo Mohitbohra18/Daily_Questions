@@ -401,6 +401,7 @@ to maintain consistency in coding platforms
 | [0020-valid-parentheses](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -444,6 +445,7 @@ to maintain consistency in coding platforms
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -456,6 +458,7 @@ to maintain consistency in coding platforms
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
@@ -470,6 +473,7 @@ to maintain consistency in coding platforms
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
