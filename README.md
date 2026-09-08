@@ -53,6 +53,7 @@ to maintain consistency in coding platforms
 | [0692-top-k-frequent-words](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0815-bus-routes](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -391,6 +392,7 @@ to maintain consistency in coding platforms
 | [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
