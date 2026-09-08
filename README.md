@@ -170,6 +170,7 @@ to maintain consistency in coding platforms
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0258-add-digits/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -203,6 +204,7 @@ to maintain consistency in coding platforms
 | [0066-plus-one](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -603,4 +605,8 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
