@@ -88,6 +88,7 @@ to maintain consistency in coding platforms
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -211,6 +212,7 @@ to maintain consistency in coding platforms
 | [0509-fibonacci-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1840-maximum-building-height/) | Hard |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
