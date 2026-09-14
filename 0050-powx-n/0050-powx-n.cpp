@@ -1,26 +1,26 @@
 class Solution {
 public:
-    double myPow(double x, long long  n) {
-        if(n==0)
-        {
+
+    double pew(double x, long long n)
+    {
+        if(n == 0)
             return 1;
-        }
-        if(n<0)
-        {
-            x=1/x;
-            n=n*(-1);
-        }
-        double half=myPow(x,n/2);
-        half=half*half;
 
-        if(n%2==1)
-        {
-            return half*x;
-        }
-        return half;
+        double half = pew(x, n / 2);
 
+        if(n % 2 == 0)
+            return half * half;
 
-        
-        
+        return x * half * half;
+    }
+
+    double myPow(double x, int n)
+    {
+        long long nn = n;
+
+        if(nn < 0)
+            return 1 / pew(x, -nn);
+
+        return pew(x, nn);
     }
 };
