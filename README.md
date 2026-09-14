@@ -436,6 +436,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
@@ -463,6 +464,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -477,6 +479,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -493,6 +496,7 @@ to maintain consistency in coding platforms
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
