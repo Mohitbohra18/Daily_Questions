@@ -477,6 +477,7 @@ to maintain consistency in coding platforms
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -493,6 +494,7 @@ to maintain consistency in coding platforms
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mohitbohra18/Daily_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -512,6 +514,7 @@ to maintain consistency in coding platforms
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohitbohra18/Daily_Questions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -631,4 +634,12 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
