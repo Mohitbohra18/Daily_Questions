@@ -41,6 +41,7 @@ to maintain consistency in coding platforms
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
@@ -252,6 +253,7 @@ to maintain consistency in coding platforms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -272,6 +274,7 @@ to maintain consistency in coding platforms
 | [0169-majority-element](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Mohitbohra18/Daily_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
